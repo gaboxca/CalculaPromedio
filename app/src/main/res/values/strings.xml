@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Promedia</string>
+    <string name="prom">Promedio</string>
+    <string name="porcentaje1">Calif 1</string>
+    <string name="porcentaje2">Calif 2</string>
+    <string name="porcentaje3">Calif 3</string>
+</resources>
